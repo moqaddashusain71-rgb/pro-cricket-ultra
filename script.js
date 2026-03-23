@@ -1,4 +1,4 @@
-const API_KEY = "6b6d143f-b3b8-4a38-97c5-2ba6f5fbb7eb";
+const API_KEY = "6b6d143f-b3b8-4a38-97c5-2ba6f5fbb7eb;
 const container = document.getElementById("matches");
 
 // 🔁 Fallback data (अगर API fail हो जाए)
